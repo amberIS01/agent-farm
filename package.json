@@ -1,0 +1,23 @@
+{
+  "name": "agent-farm",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000g\u0000e\u0000n\u0000t\u0000 \u0000F\u0000a\u0000r\u0000m\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amberIS01/agent-farm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amberIS01/agent-farm/issues"
+  },
+  "homepage": "https://github.com/amberIS01/agent-farm#readme"
+}
